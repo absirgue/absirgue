@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anton 
-- 🌱 I’m currently learning Computer Science & Management at King's and am commited to learning more about AI outside of school
+- 🌱 I’m currently studying Computer Science & Management at King's
 - 💻 I code in Python, Java, and JavaScript
