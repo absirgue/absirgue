@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Anton 
 - 🌱 I’m currently studying Computer Science & Management at King's
+- 📍 I'm new to GitHub and just added some of my past projects, new commits to old projects and new repos for brand new projects will be coming soon as I'll become a frequent!
 - 💻 I code in Python, Java, and JavaScript
