@@ -6,4 +6,6 @@
 
 💻I love learning new languages and technlogies but I mostly code in Java, JavaScript, Python, NodeJS, and Scala.
 
+🚀I am on a quest to get my hands as dirty with AI as possible. Look out for captivating learning trails (such as with Andrej Karpathy's,ex head of AI at Tesla, YoTube tutorials) and exciting projects to put my new skills in practice. Always looking for some constructive feedback, so very happy to chat @ absirgue@gmail.com!
+
 ⭐️Always looking for exciting projects to work on, so feel free to reach out @ absirgue@gmail.com!
