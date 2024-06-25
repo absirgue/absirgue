@@ -32,8 +32,9 @@ I am an enthusiastic problem-solver and lifelong learner with a knack for turnin
 - Using machine learning models to predict stock price movements and market trends.
 - Exploring the impact of macroeconomic indicators on stock performance through data analysis and modeling.
 
-### 4. Sentiment Analysis on Financial News
-- Perform sentiment analysis on financial news to predict market movements
+### 4. Fundamentals of Blockchain Development
+- Developed simple smart contracts able to run on Ethereum.
+- Interested in the power of the blockchain for the future of Finance in its ability to promote transparency, efficiency, and inclusivity.
 
 ---
 
