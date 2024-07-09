@@ -12,7 +12,7 @@ I am an enthusiastic problem-solver and lifelong learner with a knack for turnin
 
 ## Areas of Expertise
 
-- **Artificial Intelligence & Machine Learning**: Skilled in developing and implementing AI/ML models, with hands-on experience from Andrej Karpathy's comprehensive video series on neural networks and language models and theory knowledge from my specialization at King's College.
+- **Artificial Intelligence & Machine Learning**: Skilled in developing and implementing AI/ML models, with hands-on experience from delivering on courseworks, writing my undergraduate dissertation, working side projects, and taking on other learning adventures such as with Andrej Karpathy's comprehensive video series on neural networks and language models. On top of this important experience building and interacting with models, I developed strong theory knowledge from my specialization at King's College.
 - **Software Development**: Proficient in full-stack development, with a track record of creating robust applications for startups.
 - **Finance & Quantitative Trading**: Currently expanding my expertise in market finance, focusing on quantitative analysis and algorithmic trading strategies.
 
